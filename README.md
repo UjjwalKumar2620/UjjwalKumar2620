@@ -54,6 +54,6 @@ I don’t just learn tech — I build things that actually work 🚀
 
 ## 📊 GitHub Stats:
 
-![Ujjwal's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ujjwalkumar2620&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Ujjwalkumar2620&show_icons=true&theme=tokyonight" />
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ujjwalkumar2620&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwalkumar2620&layout=compact&theme=tokyonight" />
