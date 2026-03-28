@@ -32,21 +32,21 @@ AI / Gen AI • Startups • Web Dev • Hackathons
 ### 🔹 Athleonglobal  
 A unified platform connecting athletes, coaches, organizers, and fans.  
 Features talent discovery, event management, community engagement, and an **AI self-coach** for personalized training & performance analysis.  
-🔗 Link: https://your-link-here.com  
+🔗 Link: https://athleonglobal.in/
 
 ---
 
 ### 🔹 Life Vault  
 A secure platform for storing and managing medical records.  
 Includes an **AI-powered report analyzer** to help users understand health data, track history, and make better medical decisions.  
-🔗 Link: https://your-link-here.com  
+🔗 Link: https://life-vault-dusky.vercel.app/
 
 ---
 
 ### 🔹 Vaani Tech  
 An AI-powered voice technology platform focused on natural communication.  
 Enables speech processing, voice assistants, and intuitive human-computer interaction.  
-🔗 Link: https://your-link-here.com  
+🔗 Link: https://vani-tech-4hcqq6y98-ujjwal-kumars-projects-aa7025d5.vercel.app/ 
 
 ## 📊 GitHub Stats:
 
