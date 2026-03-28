@@ -1,59 +1,14 @@
-## 👋 Hi, I'm Ujjwal
+<h1 align="center">Hi 👋, I'm Ujjwal Kumar</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-💻 Passionate developer focused on building real-world solutions using AI and modern tech.  
-🚀 Currently working on **Athleon Global** — a platform connecting athletes, coaches, organizers, and fans into one unified ecosystem.  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwalkumar2620&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwalkumar2620" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjwalkumar2620" alt="ujjwalkumar2620" /></a> </p>
 
-### 🛠️ Currently Working On
-- Athleon Global (Full-stack + Product Development)
-- Generative AI Projects
-- Scalable Web Applications
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjwalkumar2620&show_icons=true&locale=en" alt="ujjwalkumar2620" /></p>
 
-### 🌱 Currently Learning
-- AI & Machine Learning  
-- Google Cloud Platform  
-- Java (DSA + Backend)
-
----
-
-### 🤝 Looking to Collaborate On
-- AI/ML Projects  
-- Startups & Hackathons  
-- Real-world Problem Solving  
-
----
-
-### 🧠 Looking for Help With
-- Advanced AI/ML  
-- System Design  
-- Scaling Products  
-
----
-
-### 💬 Ask Me About
-- AI / Gen AI  
-- Startups & Ideas  
-- Web Development  
-- Hackathons  
-
----
-
-### 🏆 Achievements
-- 🎯 Selected in **Google Big Code 2026** (Top 15,000)  
-- ⚡ Qualified **Google APAC Gen AI 2026**  
-- 🚀 Shortlisted for **Google Build with AI Bootcamp**  
-- 🧩 Building real-world startup-level projects  
-
----
-
-### ⚡ Fun Fact
-I don’t just learn tech — I build things that actually work 🚀
-
-## 📊 GitHub Stats:
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ujjwalkumar2620&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ujjwalkumar2620&layout=compact&theme=tokyonight" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwalkumar2620&" alt="ujjwalkumar2620" /></p>
